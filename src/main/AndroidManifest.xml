@@ -22,7 +22,7 @@
         <!-- Maps API ključ -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD_aIxcdCsXsorebdat8EIo7upGvtxK3d8" />
+            android:value="" />
 
         <activity
             android:name=".MainActivity"
@@ -41,3 +41,4 @@
     </application>
 
 </manifest>
+
